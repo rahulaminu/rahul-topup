@@ -34,6 +34,10 @@ const count = ref(0)
     >.
   </p>
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
+  <div class="bg-game-dark p-4 rounded-xl border border-gray-700 hover:border-game-purple transition-all cursor-pointer">
+  <img src="https://via.placeholder.com/150" class="rounded-lg mb-2" alt="Game Icon">
+  <h3 class="text-white font-bold text-sm">Mobile Legends</h3>
+</div>
 </template>
 
 <style scoped>
